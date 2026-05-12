@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis Challenge
 
-This repository contains the code and notebooks for a COVID-19 data analysis challenge completed as part of the Data Science course by Chaicode. It includes:
+This repository contains the code and notebooks for a COVID-19 data analysis challenge. It includes:
 
 - **Data Cleaning**: Scripts to detect and impute missing values, reshape from wide to long format, and standardize date/column types.
 - **Analysis Notebooks**:  
